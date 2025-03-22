@@ -25,9 +25,13 @@ Define the process for design and development of medical devices.
 ## 2. Scope  
 Covers all new product development activities.
 
-## 3. Responsibilities  
-- R&D  
-- QA/RA
+## 3. Responsibilities
+
+| Role       | Responsibility                          |
+|------------|------------------------------------------|
+| R&D        | Define design inputs and outputs         |
+| QA/RA      | Ensure compliance with regulatory standards |
+| Project Manager | Oversee design stages and documentation |
 
 ## 4. Procedure
 1. Define design inputs  
