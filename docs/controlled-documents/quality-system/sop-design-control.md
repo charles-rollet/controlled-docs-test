@@ -29,10 +29,12 @@ Covers all new product development activities.
 - R&D  
 - QA/RA
 
-## 4. Procedure  
+## 4. Procedure
 1. Define design inputs  
 2. Document outputs  
 3. Review and approve design stages
+
+![Design Control Process Flow](https://raw.githubusercontent.com/charles-rollet/controlled-docs-test/refs/heads/main/assets/images/document-control-image.png)
 
 ## 5. References  
 - ISO 13485  
