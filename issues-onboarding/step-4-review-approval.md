@@ -1,0 +1,55 @@
+---
+class: tracker:class:Issue
+title: Step 4 – Review and approve your document
+status: todo
+priority: high
+project: TraceX Onboarding
+assignees:
+  - {{current_user}}
+---
+
+# ✅ Step 4 – Review and approve your document
+
+TraceX includes electronic signatures that comply with **21 CFR Part 11 (FDA)**. These signatures ensure every step of the review and approval process is fully traceable and audit-ready.
+
+Signatures are timestamped and will appear in the final exported PDF in the correct order:
+
+**Author → Reviewer → Approver**
+
+This guarantees traceability and regulatory compliance.
+
+![Watch how to do it](https://raw.githubusercontent.com/charles-rollet/controlled-docs-test/main/assets/images/tracex-review-approval-_2_.gif)
+
+---
+
+## 🔁 Review Phase
+
+1. Click **“Send for review”**
+2. Select reviewers (pre-filled from the team you assigned in Step 2 — you can adjust this list if needed).  
+   If you’re the only user in this TraceX workspace for now, simply assign yourself to test the review phase.
+3. Confirm submission by entering your **electronic signature**
+4. Click **Send**
+
+Reviewers can add comments or suggestions and sign electronically to confirm review.
+
+---
+
+## ✅ Approval Phase
+
+1. Once reviewed, click **“Send for approval”**
+2. Select the approvers
+3. Confirm by signing
+
+---
+
+## ⚠️ Important Notes:
+
+- All comments must be resolved before approval. If not, the **“Send for approval”** button will be disabled.
+- If the document was edited by the author after the first review completion, it must be reviewed again before approval.
+- Approvers can then sign, approve, or reject the document.
+
+---
+
+🎉 Congratulations! You’ve now completed **Step 4** ✅
+
+➡️ [Click to proceed to Step 5](LINK_TO_STEP_5)
