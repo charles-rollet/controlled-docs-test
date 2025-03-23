@@ -1,6 +1,6 @@
 ---
 class: tracker:class:Issue
-project: onboarding
+project: TraceX Onboarding
 status: todo
 priority: high
 title: "Step 3 – Edit and manage your draft document"
