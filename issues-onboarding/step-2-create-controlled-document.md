@@ -24,7 +24,9 @@ Quality documents are a core part of the **Controlled Documents** module. They�
 
 2. Click the blue **“+ New Document”** button at the top left.
 
-🎬 [Watch how to do it](https://drive.google.com/file/d/1GF9ycPSa26pYcgFHRkdkDKlj0a6QIVM7/view?usp=sharing)
+🎬 **Watch how to do it:**
+
+![Watch how to do it](https://github.com/charles-rollet/controlled-docs-test/raw/main/assets/images/tracex-create-controlled-doc-_3_.gif)
 
 ---
 
