@@ -26,7 +26,7 @@ Quality documents are a core part of the **Controlled Documents** module. Theyâ€
 
 ðŸŽ¬ **Watch how to do it:**
 
-![Watch how to do it](https://github.com/charles-rollet/controlled-docs-test/raw/main/assets/images/tracex-create-controlled-doc-_3_.gif)
+![Watch how to do it](https://raw.githubusercontent.com/charles-rollet/controlled-docs-test/main/assets/images/tracex-create-controlled-doc-_3_.gif)
 
 ---
 
