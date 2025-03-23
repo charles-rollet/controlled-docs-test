@@ -1,0 +1,62 @@
+---
+class: tracker:issue:Issue
+title: "🚀 Step 6 – Explore everything TraceX has to offer"
+project: TraceX Onboarding
+status: todo
+priority: high
+assignee:
+  - {{ current_user }}
+---
+
+By now, you’ve learned how to create and manage controlled documents in TraceX.  
+But TraceX does much more than document control — it’s a comprehensive platform designed to support your entire product lifecycle in regulated industries.
+
+---
+
+🧠 **Built on top of Huly**
+
+TraceX is built on the Huly open-source platform. While Huly is used by IT and product teams for flexible project collaboration, TraceX extends it with the compliance and quality modules required by regulated sectors like healthcare, medtech, biotech, and automotive.
+
+---
+
+🌟 **All-in-One platform for your company**
+
+In addition to controlled documents, TraceX offers other powerful features:
+
+- 🎯 Training & qualification tracking  
+- 🛠 Requirement management (Jira-like)  
+- 🧪 Test management  
+- 💬 Integrated chat (Slack-like)  
+- 🎥 Video conferencing (Zoom-like)  
+- 🧠 AI agents & automation  
+- 📄 PDF export  
+- 📚 Collaborative wiki (Notion-like)  
+- 📂 Drive-style document storage (Google Drive-like)  
+- 📌 Quality events (e.g., CAPA, NCR)  
+
+✨ And more features are coming soon!
+
+---
+
+📹 **Short videos to guide you**
+
+- ▶️ [TraceX – 5-min tutorial](https://youtu.be/bUWr4biucPY?si=waXz0tWD0ik1AbPC)  
+- 📄 [Quality Document Management – 2-min](https://youtu.be/bUzj7ejkwUk?si=fnzSppD9Y_NwZimH)  
+- 📑 [Technical Documentation – 2-min](https://youtu.be/f-St5x6eezE?si=H3DPagb3sB1lJuCY)  
+- 🧑‍🏫 [Training & Qualification (Part 1) – 2-min](https://youtu.be/5kr5bm0kyxw?si=BpdAnlurjPkKnQT9)  
+- ✅ [Training & Qualification (Part 2) – 2-min](https://youtu.be/ZVbjQxlnTlI?si=eplguxHl7YSmGd_C)
+
+---
+
+📖 **Want to Dive Deeper?**
+
+- Visit our [TraceX YouTube channel](https://www.youtube.com/@TraceX)  
+- Browse the [Huly YouTube channel](https://www.youtube.com/@huly_io)  
+- Check out the [User Guide](https://docs.huly.io/getting-started/introduction-tracex/)
+
+---
+
+🤗 **Want to talk to us?**
+
+- 💬 Join our [Slack community](https://join.slack.com/t/hulycommunity/shared_invite/zt-2ssmr5d8w-d9V1YQ7u3vdUjoSLqxsMpg)  
+- 🗓 Book a [live demo with the TraceX team](https://calendly.com/charles-rollet-discussion/tracex)  
