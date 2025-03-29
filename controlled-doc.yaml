@@ -1,0 +1,11 @@
+class: documents:class:OrgSpace   # Required
+title: Quality documents              # Required
+private: false                    # Optional, default: false
+owners:                           # Optional, list of email addresses
+  - newuser@huly.io
+members:                          # Optional, list of email addresses
+  - newuser@huly.io
+description: string               # Optional
+qualified:                        # Optional, qualified user
+manager:                          # Optional, QMS manager
+qara: newuser@huly.io             # Optional, QA/RA specialist
