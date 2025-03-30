@@ -2,6 +2,26 @@
 class: document:class:Document
 title: Creating Documents in TraceX
 ---
+
+# **Documents vs. Controlled Documents in TraceX**
+
+TraceX offers two powerful document modules designed for different use cases:
+
+- 🧾 **Documents**: A flexible, wiki-style module ideal for day-to-day collaboration, notes, internal guides, and dynamic project documentation. Perfect for fast iteration and informal knowledge sharing with your team.
+
+- 🗂️ **Controlled Documents**: Designed for **regulated content** — such as procedures, policies, and technical documents — this module includes **version control**, **approval workflows**, **change controls**, **effective date management**, and full **audit trails** to meet regulatory requirements (e.g. ISO 13485, FDA 21 CFR Part 11).
+
+Both modules share the same powerful editor, which supports:
+
+- Rich markdown formatting  
+- Embedding images, tables, and code blocks  
+- Adding Action Items, Drawing Boards, and Diagrams  
+- Linking issues or attaching external documents  
+- Collaborative editing with @mentions and inline comments  
+
+This guide focuses on the **Documents** module.  
+To learn how to create and manage controlled, versioned content with formal reviews and approvals, check out our [Controlled Documents video tutorial](https://youtu.be/bUzj7ejkwUk?si=rJUt74aQ3Qn5Nno8).
+
 # **Creating a teamspace**
 
 Documents are organized into teamspaces, which can be used to model your team’s organizational structure. For example, you may choose to organize your documents into teamspaces called “Features”, “Marketing”, “Style Guides” etc.
