@@ -65,7 +65,7 @@ Mention a team member by using @mention syntax. The member will receive a notifi
 
 # **Creating Action Items**
 
-Create an Action Item by typing `[]` then `space` on a new line. Alternatively, type `/` and select `Action Item` from the dropdown menu. An empty checkbox will appear, and as you begin typing, a profile icon will appear to the left of the checkbox. Click this icon to select a team member to assign the Action Item to. That team member will receive a notification that they have been assigned an Action Item, and they’ll be able to schedule the Action Item in their Planner.
+Create an Action Item by typing `[]` then `space` on a new line. Alternatively, type `/`or clicking the `+` icon at the left side of the document and select `Action Item` from the dropdown menu. An empty checkbox will appear, and as you begin typing, a profile icon will appear to the left of the checkbox. Click this icon to select a team member to assign the Action Item to. That team member will receive a notification that they have been assigned an Action Item, and they’ll be able to schedule the Action Item in their Planner.
 
 * [ ] You can assign an Action Item any time by hovering over the checkbox and clicking the profile icon. 
 * [ ] Try assigning these Action Items to yourself!
