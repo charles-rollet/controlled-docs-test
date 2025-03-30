@@ -47,9 +47,13 @@ Documents support markdown formatting. There are a few ways to access formatting
 * Type markdown syntax directly into your document.
 * Use the floating toolbar that appears when text is selected on the page.
 
+![](https://raw.githubusercontent.com/charles-rollet/controlled-docs-test/main/assets/images/text-editor.png)
+
 Using markdown formatting, you can add headers, text emphasis, links, blockquotes, numbered and bulleted lists, and code blocks to your document.
 
 You can also add elements such as images, action items, drawing boards and more by typing `/` or clicking the `+` icon at the left side of the document.
+
+![](https://raw.githubusercontent.com/charles-rollet/controlled-docs-test/main/assets/images/add-element.png)
 
 # **Enrich your documents with @mentions, Action Items and live collaboration**
 
