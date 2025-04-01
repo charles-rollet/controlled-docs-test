@@ -1,6 +1,7 @@
 ---
 class: documents:class:ControlledDocument         # Required
 title: Change Management Procedure                # Required
+template: Procedure Template.md                   # Required, path to template
 author: New User
 owner: New User
 abstract: This is a dummy procedure for the sandbox workspace, allowing you to play around and easily explore TraceX’s capabilities.      # Optional
@@ -8,12 +9,11 @@ reviewers:                                        # Optional
   - newuser@huly.io
 approvers:                                        # Optional
   - newuser@huly.io
-coAuthors:                                        # Optional
-  - 
+#coAuthors:                                        # Optional 
 changeControl:                                    # Optional
   description: Initial document creation
-  reason: 
-  impact: 
+  #reason: 
+  #impact: 
 ---
 
 ## Scope
