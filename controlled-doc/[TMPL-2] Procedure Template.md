@@ -11,7 +11,6 @@ reviewers:                               # Optional
 approvers:                               # Optional
   - newuser@huly.io
 #coAuthors:                               # Optional
-  - 
 ---
 
 ## Scope
