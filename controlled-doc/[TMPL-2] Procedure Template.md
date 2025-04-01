@@ -1,8 +1,8 @@
 ---
 class: documents:mixin:DocumentTemplate  # Required
 title: Procedure Template                # Required
-docPrefix: TMPL-1                        # Required, document code prefix
-category: documents:category:Procedures  # Required
+docPrefix: SOP                           # Required, document code prefix
+category: QM                             # Required
 author: New User                         # Required
 owner: New User                          # Required
 abstract: This is a dummy template for the sandbox workspace, allowing you to play around and easily explore TraceX’s capabilities.      # Optional
@@ -10,7 +10,7 @@ reviewers:                               # Optional
   - newuser@huly.io
 approvers:                               # Optional
   - newuser@huly.io
-coAuthors:                               # Optional
+#coAuthors:                               # Optional
   - 
 ---
 
