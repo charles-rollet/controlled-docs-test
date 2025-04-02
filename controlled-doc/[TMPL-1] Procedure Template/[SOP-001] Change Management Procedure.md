@@ -1,7 +1,7 @@
 ---
 class: documents:class:ControlledDocument         # Required
 title: Change Management Procedure                # Required
-template: Procedure Template.md                   # Required, path to template
+template: "[TMPL-2] Procedure Template.md"          # Required, path to template
 author: New User
 owner: New User
 abstract: This is a dummy procedure for the sandbox workspace, allowing you to play around and easily explore TraceX’s capabilities.      # Optional
