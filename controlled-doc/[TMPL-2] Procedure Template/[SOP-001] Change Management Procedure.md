@@ -43,6 +43,14 @@ The procedure is intended to ensure compliance with ISO 13485 and maintain full 
 
 ---
 
+## Process Flowchart
+
+The following flowchart illustrates the change control process:
+
+![Change Control Process Flow](https://github.com/charles-rollet/controlled-docs-test/blob/main/assets/images/change-control-process-flow.png)
+
+---
+
 ## Procedure
 
 1. **Initiation**  
@@ -61,4 +69,4 @@ The procedure is intended to ensure compliance with ISO 13485 and maintain full 
    QA verifies completion and closes the change request, ensuring all documentation is updated.
 
 
-... [Feel free to make any changes or additions to this document during your TraceX exploration.] 
+... [Feel free to make any changes or additions to this document during your TraceX exploration.]
