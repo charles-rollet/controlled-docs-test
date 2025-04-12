@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background and Title -->
+  <rect width="800" height="600" fill="#f9f9f9"/>
+  <text x="400" y="30" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle">Document Change Control Process Flow (ISO 13485)</text>
+  
+  <!-- Actors/Swim Lanes -->
+  <rect x="50" y="50" width="150" height="500" fill="#e6e6ff" opacity="0.3"/>
+  <rect x="200" y="50" width="200" height="500" fill="#ffe6e6" opacity="0.3"/>
+  <rect x="400" y="50" width="200" height="500" fill="#e6ffe6" opacity="0.3"/>
+  <rect x="600" y="50" width="150" height="500" fill="#fff2e6" opacity="0.3"/>
+
+  <text x="125" y="70" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Change Owner</text>
+  <text x="300" y="70" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">QA Manager</text>
+  <text x="500" y="70" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Department Lead</text>
+  <text x="675" y="70" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle">Implementation Team</text>
+  
+  <!-- Process Flow - Start -->
+  <circle cx="125" cy="120" r="20" fill="#4CAF50"/>
+  <text x="125" y="125" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Start</text>
+  
+  <!-- 1. Initiation -->
+  <rect x="75" y="160" width="100" height="60" rx="10" ry="10" fill="#b3d1ff" stroke="#0066cc" stroke-width="2"/>
+  <text x="125" y="190" font-family="Arial" font-size="12" text-anchor="middle">Fill Change</text>
+  <text x="125" y="205" font-family="Arial" font-size="12" text-anchor="middle">Request Form</text>
+  
+  <!-- Arrow 1 -->
+  <line x1="125" y1="140" x2="125" y2="160" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Document -->
+  <path d="M 160 170 l 20 0 l 0 30 l -20 0 Z" fill="white" stroke="#666" stroke-width="1"/>
+  <path d="M 165 170 l 10 -10 l 15 0 l 0 30 l -15 0 Z" fill="white" stroke="#666" stroke-width="1"/>
+  <path d="M 180 160 l 0 10 l -10 0 Z" fill="white" stroke="#666" stroke-width="1"/>
+  
+  <!-- Arrow 2 -->
+  <line x1="175" y1="190" x2="250" y2="190" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- 2. Impact Assessment - QA -->
+  <rect x="250" y="160" width="100" height="60" rx="10" ry="10" fill="#ffcccc" stroke="#cc0000" stroke-width="2"/>
+  <text x="300" y="190" font-family="Arial" font-size="12" text-anchor="middle">Assess</text>
+  <text x="300" y="205" font-family="Arial" font-size="12" text-anchor="middle">QA Impact</text>
+  
+  <!-- Arrow 3 -->
+  <line x1="300" y1="220" x2="300" y2="240" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow to Department Lead -->
+  <line x1="350" y1="190" x2="450" y2="190" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- 2b. Impact Assessment - Department -->
+  <rect x="450" y="160" width="100" height="60" rx="10" ry="10" fill="#ccffcc" stroke="#00cc00" stroke-width="2"/>
+  <text x="500" y="183" font-family="Arial" font-size="12" text-anchor="middle">Assess</text>
+  <text x="500" y="198" font-family="Arial" font-size="12" text-anchor="middle">Technical/</text>
+  <text x="500" y="213" font-family="Arial" font-size="12" text-anchor="middle">Operational Impact</text>
+  
+  <!-- QA Assessment Document -->
+  <rect x="250" y="240" width="100" height="60" rx="10" ry="10" fill="#ffcccc" stroke="#cc0000" stroke-width="2"/>
+  <text x="300" y="270" font-family="Arial" font-size="12" text-anchor="middle">Document</text>
+  <text x="300" y="285" font-family="Arial" font-size="12" text-anchor="middle">Assessment</text>
+  
+  <!-- Arrow 4 -->
+  <line x1="300" y1="300" x2="300" y2="320" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- 3. Approval Decision -->
+  <polygon points="300,320 350,350 300,380 250,350" fill="#ffffcc" stroke="#cccc00" stroke-width="2"/>
+  <text x="300" y="355" font-family="Arial" font-size="12" text-anchor="middle">Approved?</text>
+  
+  <!-- Arrow from Department Assessment to Decision -->
+  <line x1="500" y1="220" x2="500" y2="260" stroke="#666" stroke-width="2"/>
+  <line x1="500" y1="260" x2="320" y2="340" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow No -->
+  <line x1="250" y1="350" x2="200" y2="350" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="220" y="340" font-family="Arial" font-size="12" text-anchor="middle">No</text>
+  
+  <!-- Rejection Notification -->
+  <rect x="100" y="320" width="100" height="60" rx="10" ry="10" fill="#b3d1ff" stroke="#0066cc" stroke-width="2"/>
+  <text x="150" y="350" font-family="Arial" font-size="12" text-anchor="middle">Notify Rejection</text>
+  <text x="150" y="365" font-family="Arial" font-size="12" text-anchor="middle">& Reasons</text>
+  
+  <!-- Arrow Yes -->
+  <line x1="300" y1="380" x2="300" y2="410" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="310" y="395" font-family="Arial" font-size="12" text-anchor="middle">Yes</text>
+  
+  <!-- 4. Approval Documentation -->
+  <rect x="250" y="410" width="100" height="60" rx="10" ry="10" fill="#ffcccc" stroke="#cc0000" stroke-width="2"/>
+  <text x="300" y="440" font-family="Arial" font-size="12" text-anchor="middle">Document</text>
+  <text x="300" y="455" font-family="Arial" font-size="12" text-anchor="middle">Approval</text>
+  
+  <!-- Arrow to Implementation -->
+  <line x1="350" y1="440" x2="625" y2="440" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- 5. Implementation -->
+  <rect x="625" y="410" width="100" height="60" rx="10" ry="10" fill="#ffe6cc" stroke="#ff9900" stroke-width="2"/>
+  <text x="675" y="440" font-family="Arial" font-size="12" text-anchor="middle">Implement</text>
+  <text x="675" y="455" font-family="Arial" font-size="12" text-anchor="middle">Changes</text>
+  
+  <!-- Arrow to Closure -->
+  <line x1="675" y1="470" x2="675" y2="490" stroke="#666" stroke-width="2"/>
+  <line x1="675" y1="490" x2="350" y2="490" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- 6. Verification and Closure -->
+  <rect x="250" y="480" width="100" height="60" rx="10" ry="10" fill="#ffcccc" stroke="#cc0000" stroke-width="2"/>
+  <text x="300" y="505" font-family="Arial" font-size="12" text-anchor="middle">Verify &</text>
+  <text x="300" y="520" font-family="Arial" font-size="12" text-anchor="middle">Close Request</text>
+  
+  <!-- End -->
+  <circle cx="150" cy="510" r="20" fill="#f44336"/>
+  <text x="150" y="515" font-family="Arial" font-size="12" fill="white" text-anchor="middle">End</text>
+  
+  <!-- Arrow to End -->
+  <line x1="250" y1="510" x2="170" y2="510" stroke="#666" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrowhead Marker Definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#666" />
+    </marker>
+  </defs>
+  
+  <!-- Legend -->
+  <rect x="600" y="520" width="150" height="70" fill="white" stroke="#666" stroke-width="1"/>
+  <text x="675" y="535" font-family="Arial" font-size="12" font-weight="bold" text-anchor="middle">Legend</text>
+  
+  <rect x="610" y="545" width="20" height="10" fill="#b3d1ff" stroke="#0066cc" stroke-width="1"/>
+  <text x="640" y="553" font-family="Arial" font-size="10" text-anchor="start">Change Owner</text>
+  
+  <rect x="610" y="560" width="20" height="10" fill="#ffcccc" stroke="#cc0000" stroke-width="1"/>
+  <text x="640" y="568" font-family="Arial" font-size="10" text-anchor="start">QA Manager</text>
+  
+  <rect x="610" y="575" width="20" height="10" fill="#ccffcc" stroke="#00cc00" stroke-width="1"/>
+  <text x="640" y="583" font-family="Arial" font-size="10" text-anchor="start">Department Lead</text>
+  
+  <rect x="700" y="545" width="20" height="10" fill="#ffe6cc" stroke="#ff9900" stroke-width="1"/>
+  <text x="730" y="553" font-family="Arial" font-size="10" text-anchor="start">Implementation</text>
+</svg>
