@@ -1,5 +1,5 @@
 class: documents:class:OrgSpace   # Required
-title: Quality documents              # Required
+title: Quality documents Onboarding             # Required
 private: false                    # Optional, default: false
 owners:                           # Optional, list of email addresses
   - newuser@huly.io
