@@ -2,13 +2,13 @@
 class: documents:class:ControlledDocument         # Required
 title: Change Management Procedure                # Required
 template: '../[TMPL-3] Procedure Template.md'        # Required, path to template
-author: Charles Rollet
-owner: Charles Rollet
+author: New User
+owner: New User
 abstract: This is a dummy procedure for the sandbox workspace, allowing you to play around and easily explore TraceX’s capabilities.      # Optional
 reviewers:                                        # Optional
-  - Charles Rollet
+  - New User
 approvers:                                        # Optional
-  - Charles Rollet
+  - New User
 #coAuthors:                                        # Optional 
 changeControl:                                    # Optional
   description: Initial document creation
