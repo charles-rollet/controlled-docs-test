@@ -3,8 +3,8 @@ class: documents:mixin:DocumentTemplate  # Required
 title: Procedure Template                # Required
 docPrefix: SOP                           # Required, document code prefix
 category: QM                             # Required
-author: Charles Rollet                         # Required
-owner: Charles Rollet                          # Required
+author: New User                        # Required
+owner: New User                          # Required
 abstract: This is a dummy template for the sandbox workspace, allowing you to play around and easily explore TraceX’s capabilities.      # Optional
 #reviewers:                               # Optional
 #approvers:                               # Optional
