@@ -16,6 +16,8 @@ changeControl:                                    # Optional
   #impact: 
 ---
 
+**[Keep in mind that this document content is just an illustration to show you how this could look like, but please create your own content. If needed, we can put you in touch with experts to help you out.]**
+
 ## Scope
 
 This Standard Operating Procedure (SOP) applies to all departments involved in initiating, reviewing, approving, and implementing changes to controlled documents, quality records, and product specifications.
