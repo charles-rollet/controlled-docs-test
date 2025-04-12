@@ -12,6 +12,9 @@ approvers:                               # Optional
   - newuser@huly.io
 #coAuthors:                               # Optional
 ---
+
+**[Keep in mind that this document content is just an illustration to show you how this could look like, but please create your own content. If needed, we can put you in touch with experts to help you out.]**
+
 ## Scope
 This Standard Operating Procedure (SOP) is applicable to [specify departments, teams, processes, or functions] involved in [specify the aspects of medical device lifecycle covered, such as design, development, production, quality control, distribution, etc.]. It outlines the procedures for [briefly describe the main activities or processes the SOP governs].
 
