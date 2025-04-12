@@ -2,13 +2,13 @@
 class: documents:class:ControlledDocument
 title: Manage a change
 template: '../../[TMPL-3] Procedure Template.md'
-author: Charles Rollet
-owner: Charles Rollet
+author: New User
+owner: New User
 abstract: This Work Instruction provides detailed step-by-step guidance on how to manage a change according to the Change Management Procedure.
 reviewers:
-  - Charles Rollet
+  - New User
 approvers:
-  - Charles Rollet
+  - New User
 changeControl:
   description: Initial document creation
 ---
