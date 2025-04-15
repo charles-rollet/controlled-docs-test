@@ -24,7 +24,7 @@ This Work Instruction (WI) provides detailed step-by-step guidance for implement
 
 The following flowchart illustrates the change management process:
 
-![Change Management Process Flowchart](https://github.com/charles-rollet/controlled-docs-test/blob/main/assets/images/wi-process-flow.png)
+![Change Management Process Flowchart](https://raw.githubusercontent.com/charles-rollet/controlled-docs-test/main/assets/images/wi-process-flow.png)
 
 ---
 
