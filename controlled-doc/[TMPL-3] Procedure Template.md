@@ -40,7 +40,7 @@ The SOP is intended to ensure compliance with ISO 13485 standards, [mention any 
 
 [The following flowchart is just a placeholder illustration and should be replaced in each procedure with an appropriate one]:
 
-![Process Flowchart](https://github.com/charles-rollet/controlled-docs-test/blob/main/assets/images/template-process-flow.png)
+![Process Flowchart](https://raw.githubusercontent.com/charles-rollet/controlled-docs-test/main/assets/images/template-process-flow.png)
 
 ---
 ## Procedure
