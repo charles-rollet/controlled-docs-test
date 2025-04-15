@@ -49,7 +49,7 @@ The procedure is intended to ensure compliance with ISO 13485 and maintain full 
 
 The following flowchart illustrates the change control process:
 
-![Change Control Process Flow](https://github.com/charles-rollet/controlled-docs-test/blob/main/assets/images/change-control-process-flow.png)
+![Change Control Process Flow](https://raw.githubusercontent.com/charles-rollet/controlled-docs-test/main/assets/images/change-control-process-flow.png)
 
 ---
 
