@@ -6,6 +6,6 @@ owners:                           # Optional, list of email addresses
 members:                          # Optional, list of email addresses
   - newuser@huly.io
 description: Space for onboarding purpose              # Optional
-qualified:                        # Optional, qualified user
-manager:                          # Optional, QMS manager
+#qualified:                        # Optional, qualified user
+#manager:                          # Optional, QMS manager
 qara: newuser@huly.io             # Optional, QA/RA specialist
